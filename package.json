@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "homepage": "https://Hosanna12e.github.io/React_OpenAI-QnA",
-=======
-  "homepage": "https://Hosanna12e.github.io/React_OpenAI-QnA"
->>>>>>> aa35ac681fbf842e86f9bf4c4fde84ecdd834095
   "name": "openai-qna",
   "private": true,
   "version": "0.0.0",
@@ -12,15 +8,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-<<<<<<< HEAD
     "preview": "vite preview",
     "predeploy" : "npm run dev",
     "deploy" : "gh-pages -d dev"
-=======
-    "preview": "vite preview"
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build",
->>>>>>> aa35ac681fbf842e86f9bf4c4fde84ecdd834095
   },
   "dependencies": {
     "openai": "^4.28.0",
