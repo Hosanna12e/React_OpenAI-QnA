@@ -9,7 +9,7 @@
 
 - Open command prompt and run the command
   
-  		wsl –install
+  		wsl -–install
 - WSL and Ubuntu will be installed into your system.
 - Restart your pc after installation. 
 - Now navigate to your project directory.
