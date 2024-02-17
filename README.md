@@ -67,7 +67,7 @@
 - connecting to OpenAI API using API Key 
 - create an instance user and connect it using API key.
   
-		const user = new OpenAI({apiKey : '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',
+		const user = new OpenAI({apiKey : 'OPENAI_API_KEY',
 		  dangerouslyAllowBrowser: true
 		})
 
