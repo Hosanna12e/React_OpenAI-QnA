@@ -145,7 +145,7 @@
 		    );
 		};
 
-export default Chat;
+		export default Chat;
 
  
 - Use useState for response as it updates when button is clicked.
