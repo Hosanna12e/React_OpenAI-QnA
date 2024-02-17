@@ -7,11 +7,15 @@
 - Copy the secret key and store it somewhere.
 ## Migrating OpenAI Codebase to 1.0.0
 
-- Open command prompt and run the command wsl –install
+- Open command prompt and run the command
+  
+  		wsl –install
 - WSL and Ubuntu will be installed into your system.
 - Restart your pc after installation. 
 - Now navigate to your project directory.
-- Example path: cd /mnt/c/Users/Myself/my/code/
+- Example path:
+  
+  		cd /mnt/c/Users/Myself/my/code/
 - OpenWSL and run the following commands.
   
 		curl -fsSL https://docs.grit.io/install | bash
