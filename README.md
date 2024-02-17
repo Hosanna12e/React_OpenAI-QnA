@@ -24,7 +24,10 @@
 ## Project setup:
 
 - Open VS code and open a new terminal.
-- Readymade react template (Vite): npm create vite OpenAI-QnA -- --template react
+- Readymade react template (Vite):
+  
+ 		 npm create vite OpenAI-QnA -- --template react
+  
 - After creating and entering into our project workspace install the dependencies
   
 		npm i
