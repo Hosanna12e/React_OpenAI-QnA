@@ -48,7 +48,7 @@
 		
 		ReactDOM.createRoot(document.getElementById('root')).render(<App/>)
 		
-		App.jsx
+### App.jsx
 		function App() {
 		  return <div>
 		
