@@ -32,7 +32,9 @@
   
 		npm i
   
-- Install openai into our project: npm i openai
+- Install openai into our project:
+
+  		npm i openai
 - Now our project setup is done.
 
 - Clear App.jsx, main.jsx, index.css, app.css
