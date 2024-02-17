@@ -1,5 +1,7 @@
 # React + OpenAI QnA Application
 
+![Screenshot 2024-02-16 213939](https://github.com/Hosanna12e/React_OpenAI-QnA/assets/113128088/982dbc66-fb7d-4744-831a-e28e43b3092d)
+
 ## Getting Secret API Key from OpenAI
 - Sign-up in [OpenAI Platform](https://platform.openai.com/docs/introduction)
 - Click on API Keys and create a new secret key.
